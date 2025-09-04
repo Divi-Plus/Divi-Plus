@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divi-Plus
-- 👀 I’m interested in ...Learning how to code and develope websites and games
+- 👀 I’m interested in ...Learning how to code and develop websites and games
 - 🌱 I’m currently learning ...HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...Website Developement 
 - 📫 How to reach me ...ngwagodwill0@gmail.com
